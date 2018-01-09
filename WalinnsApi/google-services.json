@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "658494081056",
+    "firebase_url": "https://walinnsanalytic.firebaseio.com",
+    "project_id": "walinnsanalytic",
+    "storage_bucket": "walinnsanalytic.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:658494081056:android:a0f75da3fc8396aa",
+        "android_client_info": {
+          "package_name": "com.walinns.walinnsapi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "658494081056-90pkn66pvlct0lm3kuqca2sacf39ebei.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA1clvgdVSBbjScz_YhsmOBoJIhzIBg0ag"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
