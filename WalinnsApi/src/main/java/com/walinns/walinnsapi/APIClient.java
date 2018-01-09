@@ -24,7 +24,7 @@ public class APIClient {
     public Context mContext;
     public String mUrl;
     public JSONObject mjsonObject;
-    static String URL="http://182.156.249.254:8083/";
+    static String URL="http://ec2-18-218-53-112.us-east-2.compute.amazonaws.com:8080/";
     protected WALifeCycle mWalinnsactivitylifecycle;
 
     public APIClient(Context context){
