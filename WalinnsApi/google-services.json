@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "977100535175",
+    "firebase_url": "https://moileanalyticssample.firebaseio.com",
+    "project_id": "moileanalyticssample",
+    "storage_bucket": "moileanalyticssample.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:977100535175:android:a0f75da3fc8396aa",
+        "android_client_info": {
+          "package_name": "com.walinns.walinnsapi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "977100535175-98v24kqefrok1u4dk6vrbdo0ftoljq07.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAFHMTX7f9EHu3axu-jEGpinfqjOYEGLVo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
